@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<source id="hewather">
+	<site>http://www.heweather.com/</site>
+	<doc>http://www.heweather.com/documents/api</doc>
+	<api>https://api.heweather.com/x3/weather?cityid=CN101010100&key=ae7528a2ee9c48b78ba7a3dc366568a1</api>
+</source>
+<source id="ip">
+	<site>http://www.ipip.net/</site>
+	<doc>http://www.ipip.net/api.html</doc>
+	<api>http://freeapi.ipip.net/118.28.8.8</api>
+</source>
