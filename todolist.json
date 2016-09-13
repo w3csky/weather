@@ -1,10 +1,10 @@
-1.获取和风天气城市对应代码并和city关联起来
+1.获取和风天气城市对应代码并和city关联起来,存入mysql
 2.划分Node.js路由模块
 3.根据城市代码获取天气
 4.将对应天气存入Redis
 5.将对应天气从Redis存入MySQL
 6.读取Redis天气数据
 7.Restful API查询接口，支持城市，ip等方式
-8.前端界面{server渲染?angularJS SPA?Vue SPA?React?}
+8.前端界面(server渲染?angularJS SPA?Vue SPA?React?)
 9.前端直出方案bigRender?bigpipe?
-10.前端图表展示(Echarts?highcharts?)
+10.前端图表展示(Echarts?highcharts?canvas?)
