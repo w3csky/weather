@@ -1,2 +1,2 @@
-# node-weather
-a weather application wroten by node.js
+# weather
+a weather application which is wroten by vue.js and node.js
